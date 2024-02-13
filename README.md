@@ -1,6 +1,6 @@
 
-<h3 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=true&width=435&lines=Hi+There+++%F0%9F%91%8B+%2C+I'm+Hari+Om" alt="Typing SVG" /></a></h3>
+<center>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=true&width=435&lines=Hi+There+++%F0%9F%91%8B+%2C+I'm+Hari+Om" alt="Typing SVG" /></a></center>
 <h3 align="center">A passionate Programmer from India🇮🇳</h3>
 <p align="center">I am fascinated by how computer technology has brought changes to our lives that could never have been predicted.</p>
 <p align="center"> 
