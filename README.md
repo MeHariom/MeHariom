@@ -1,43 +1,84 @@
- <!-- profile view count -->
-<img align="right" src="https://komarev.com/ghpvc/?username=MeHariom">
 
-<!-- introduction -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=true&width=435&lines=Hi+There+++%F0%9F%91%8B+%2C+I'm+Hari+Om" alt="Typing SVG" /></a>
-  </a>
-</h1>
+<h3 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=true&width=435&lines=Hi+There+++%F0%9F%91%8B+%2C+I'm+Hari+Om" alt="Typing SVG" /></a></h3>
+<h3 align="center">A passionate Programmer from India🇮🇳</h3>
+<p align="center">I am fascinated by how computer technology has brought changes to our lives that could never have been predicted.</p>
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=MeHariom&label=Profile%20views&color=0e75b6&style=flat" alt="MeHariom" /> 
 
-<br />
-<!-- about me -->
-<p align="center">
-  Hi, I'm Hari Om, Web Developer/Coder 💻,  Learner 👨‍💻  from India 🇮🇳.
-  <br />
-  <br />
-  🎓 Currently a College student.
-  <br />
-  💻 I love to learn new technologies and frameworks.
-  <br />
-  🧑‍💼 I’m currently a freelancer working as a PHP developer.
-  <br />
 </p>
 
-<!-- social handles -->
-<div align="center"> 
-<!-- youtube -->
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <!-- twitter -->
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a> 
-  <!-- gmail -->
-  <a href = "mailto:hariom3572@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <!-- linkedin -->
-  <a href="https://www.linkedin.com/in/hari-om-70a01a17b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="center">
+    <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="60" height="60" />
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="60" height="60" />
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="60" height="60" />
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="60" height="60" />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="60" height="60" />
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" height="60" />
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="60" height="60" />
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="60" height="60" /></div>
 </div>
 
-<hr />
+<hr>
+
+
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
+
+- 🔭 I’m currently College Student*<br>
+
+- 🌱 I’m currently learning *Devops*<br>
+
+- 👨‍💻 You Can Check My Portfolio <a href="https://personal-portfolio-d492wabms-hariom35s-projects.vercel.app">Portfolio</a>   <br>
+
+- 💬 Ask me about *Python, PHP and NodeJS*<br>
+- ⚡ Fun fact *I think I'm funny*<br>
+- 📫 How to reach me 👇🏻
+<!-- social handles -->
+<div align="center"> 
+      <!-- gmail -->
+      <a href = "mailto:hariom3572@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+      <!-- linkedin -->
+      <a href="https://www.linkedin.com/in/hari-om-70a01a17b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    </div>
+
+<hr>
+
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py" />
+  </a>
+</p>
+
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,html,css" />
+  </a>
+</p>
+
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+  </a>
+</p>
+
+
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,linux,photoshop" />
+  </a>
+</p>
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/MeHariom"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mehariom" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/MeHariom"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="MeHariom" /></a></p><br><br>
+
+
+<hr>
+<p align="right" > Created with 🧡 by <a href="https://personal-portfolio-d492wabms-hariom35s-projects.vercel.app">Hari Om</a></p>
