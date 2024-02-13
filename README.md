@@ -54,14 +54,14 @@
     <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py" />
   </a>
 </p>
-
+<hr>
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,html,css" />
   </a>
 </p>
-
+<hr>
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
@@ -69,13 +69,14 @@
   </a>
 </p>
 
-
+<hr>
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,linux,photoshop" />
   </a>
 </p>
+<hr>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/MeHariom"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="MeHariom" /></a></p><br><br>
 
