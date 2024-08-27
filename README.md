@@ -32,7 +32,7 @@
 
 - 👨‍💻 You Can Check My Portfolio <a href="https://personal-portfolio-d492wabms-hariom35s-projects.vercel.app">Portfolio</a>   <br>
 
-- 💬 Ask me about *Python, PHP and NodeJS*<br>
+- 💬 Ask me about *PHP and MERN Stack*<br>
 - ⚡ Fun fact *I think I'm funny*<br>
 - 📫 How to reach me 👇🏻
 <!-- social handles -->
