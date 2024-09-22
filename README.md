@@ -4,8 +4,8 @@
 <h3 align="center">A passionate Programmer from India.</h3>
 <p align="center">I am fascinated by how computer technology has brought changes to our lives that could never have been predicted.</p>
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=MeHariom&label=Profile%20views&color=0e75b6&style=flat" alt="MeHariom" /> 
-
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/MeHariom/count.svg" />
 </p>
 
 <div align="center">
